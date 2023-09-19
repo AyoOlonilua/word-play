@@ -7,9 +7,26 @@
     <script src="js/scripts.js"></script>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="bootstrap-4.5.3-dist/css/bootstrap.min.css">
-    <title>Document</title>
+    <title>Word Play</title>
 </head>
-<body>
+<body class="body p-3">
+    <section class="container p-3 w-50">
+        <div class="container mt-5 p-3">
+            <form id="word">
+                <div class="container font-weight-bold">
+                    <label class="d-block text-center">WORD PLAY</label>
+                    <input type="text" id="wordPlay" class="a border border-dark text-center form-control w-50" placeholder="Enter any word" required>
+                </div>
+                
+                <button type="submit" class="b btn mt-4 p-2 text-white border border-white bg-dark font-weight-bold">Submit
+                </button>
+            </form>
+        </div>
+    
+        <div class="container text-center w-50 p-3">
+            <p id="result"></p>
+        </div>
+    </section>
     
 </body>
 </html>

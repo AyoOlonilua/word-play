@@ -15,7 +15,7 @@ By AYO-OLONILUA AYOMIPE
 
 # Description
 
-It is used to independently classify, sort, and extract information from text to identify patterns, relationships, sentiments, and other actionable knowledge.
+it is a website that takes an inputted word with a length greater than 3, reverses it and add it back to the original word inputted while a word that is less than 3 it outputs the word as it was written.
 
 # Setup/Installation Requirements
 

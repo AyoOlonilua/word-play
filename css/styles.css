@@ -10,11 +10,8 @@ section {
     background-color: bisque;
     margin-top: 100px;
 }
-.a {
-    margin-left: 140px;
-}
 .b {
-    margin-left: 260px;
+    margin-left: 220px;
     width: 80px;
 }
 #result {
